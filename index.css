@@ -1,0 +1,40 @@
+#title {
+   text-align: center;
+}
+
+#bodyContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#mainContainer {
+    border: black solid 2px;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    width: 700px;
+}
+
+#navBarContainer {
+    display: flex;
+    background-color: red;
+    padding: 1em;
+}
+
+#contentContainerUnderNav {
+    padding-left: 2em;
+    padding-bottom: 1em;
+}
+
+#erHeerstPaniek {
+    margin-right: 2em;
+}
+
+input {
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+div {
+    display: inline-block;
+ }
