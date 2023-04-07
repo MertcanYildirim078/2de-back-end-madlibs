@@ -38,3 +38,9 @@ input {
 div {
     display: inline-block;
  }
+
+ footer {
+    background-color: red;
+    padding: 1em;
+    text-align: center;
+}
