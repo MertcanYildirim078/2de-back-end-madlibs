@@ -10,8 +10,8 @@
     <div id="bodyContainer">
         <main id="mainContainer">
             <nav id="navBarContainer">
-                <div id="erHeerstPaniek">Er heerst paniek...</div>
-                <div>Onkunde</div>
+                <a id="erHeerstPaniek" href="./index.php">Er heerst paniek...</a>
+                <a id="onkunde" href="./onkunde.php">Onkunde</a>
             </nav>
             <section id="contentContainerUnderNav">
                 <h1>Er heerst paniek...</h1>
